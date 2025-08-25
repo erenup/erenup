@@ -6,7 +6,7 @@ Contributing to multiple open-source projects in LLM and the transformers ecosys
 
 ## 🏆 Notable Contributions
 
-- **[Hugging Face Transformers](https://github.com/huggingface/transformers)** - Pioneered multiple choice training pipeline ([PR #1004](https://github.com/huggingface/transformers/pull/1004)) and RoBERTa SQuAD support with 26x preprocessing speedup ([PR #2173](https://github.com/huggingface/transformers/pull/2173))
+- **[Hugging Face Transformers](https://github.com/huggingface/transformers)** - Pioneered multiple choice training pipeline ([PR #1004](https://github.com/huggingface/transformers/pull/1004)) and RoBERTa SQuAD support with 20x preprocessing speedup ([PR #2173](https://github.com/huggingface/transformers/pull/2173))
 - **[NVIDIA TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM/discussions/1020)** - supported RoBERTa for high-performance inference
 - **[learn-nlp-with-transformers](https://github.com/datawhalechina/learn-nlp-with-transformers)** - Owner & lead author
 - **[deeplearningbasics](https://github.com/erenup/deeplearningbasics)** - Owner & lead author
