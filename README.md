@@ -2,7 +2,7 @@
 
 ## 🚀 LLM & NLP & Deep Learning Researcher
 
-Contributing to multiple open-source projects in LLM and the transformers ecosystem.
+Scale agents (model+harness) and go beyond the imagination.
 
 ## 🏆 Notable Contributions
 
